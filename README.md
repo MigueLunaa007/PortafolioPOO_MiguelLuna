@@ -29,3 +29,4 @@ Este portafolio principal recopila los proyectos académicos y prácticos desarr
 * [2. Actividad de evaluacion C2 - Consumo energetico servidores Unidad 3 - Metodos](./Actividad%20de%20evaluacion%20C2%20-%20Consumo%20energetico%20servidores%20Unidad%203%20-%20Metodos)
 * [3. Actividad de Evaluacion C3 - Usuarios](./Actividad%20de%20Evaluacion%20C3%20-%20Usuarios)
 * [4. Actividad Integradora - Arreglos unidimensionales](./Actividad%20Integradora%20-%20Arreglos%20unidimensionales)
+* [5. Actividad Integradora - Gestión de Bitácoras en Archivos de Texto](./Actividad%20Integradora%20-%20Gestion%20de%20Bitacoras%20en%20Archivos%20de%20Texto)

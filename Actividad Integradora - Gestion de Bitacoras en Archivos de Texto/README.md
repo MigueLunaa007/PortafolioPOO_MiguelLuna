@@ -117,7 +117,7 @@ Responsable: Miguel Luna
 
 ### Archivo `bitacora.txt` generado automáticamente
 
-![Archivo bitacora.txt](capturas/bitacora_txt.png)
+![Archivo bitacora.txt](capturas/2.png)
 
 > El archivo se crea automáticamente en la misma carpeta del proyecto al registrar la primera actividad. No requiere creación manual.
 

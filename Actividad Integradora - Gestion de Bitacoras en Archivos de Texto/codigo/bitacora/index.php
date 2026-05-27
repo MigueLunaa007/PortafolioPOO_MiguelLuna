@@ -55,6 +55,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </style>
 </head>
 <body>
+
     <h1>Registro de Actividades Diarias</h1>
     
     <?php if (!empty($mensaje)): ?>
@@ -78,7 +79,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <div class="bitacora">
         <h2>Bitacora de Registrada</h2>
         <?php
-        [cite_start] //2. Leemos el archivo para mostrar la bitacora
+        //2. Leemos el archivo para mostrar la bitacora
         if (file_exists($archivo)) {
             $contenido = file_get_contents($archivo);
             // mostrar dentro de un <pre> para mantener formato, y usar htmlspecialchars para evitar inyeccion de codigo

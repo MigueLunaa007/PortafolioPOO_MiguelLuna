@@ -61,9 +61,9 @@ Ambos escenarios ilustran cómo la POO permite encapsular y organizar la informa
 ### Estructura del proyecto
 ```
 raíz/
-├── index.php
 └── src/
     └── Logistica/
+        ├── index.php
         ├── Paquete.php
         └── Sensor.php
 ```
